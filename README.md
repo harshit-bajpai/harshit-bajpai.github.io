@@ -1,3 +1,1 @@
-# Bilgrafia
-
-Thinking of starting a blog.
+# Website repo
